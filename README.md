@@ -2,4 +2,4 @@
 
 ### Projects
 
-- **energy_rl**: *Study of back-propagation in energy constrained environments*
+- **energy**: *Study of back-propagation in energy constrained environments*
